@@ -9,18 +9,18 @@ Alignment:
 
 Peak calling:
 
-  peakCalling_paired.sh
+    peakCalling_paired.sh
   
-  peakCalling_single.sh
+    peakCalling_single.sh
   
-  combine_peaks.R
+    combine_peaks.R
 
 
 Elastic Net selection:
 
-  en_sel.R
+    en_sel.R
 
 
 Regression:
 
-  glm.R
+    glm.R
